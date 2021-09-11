@@ -1,1 +1,1 @@
-# cypress
+# Projeto básico com testes de frontend
